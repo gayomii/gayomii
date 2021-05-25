@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c7ecee&height=300&section=header&text=gayeon%20github&fontSize=90&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c7ecee&height=300&section=header&text=gayeon's%20github&fontSize=90&fontColor=ffffff&animation=twinkling)
 
 <div align=left> 
   
