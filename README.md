@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c7ecee&height=300&section=header&text=gayeon's%20github&fontSize=90&fontColor=ffffff&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=c7ecee&height=300&section=header&text=gayeon's%20github&fontSize=90&fontColor=ffffff&animation=twinkling)
 
 <div align=center> 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://github.com/gayomii/gayomii)
   
-</div>
+</div> -->
 
 ### 👋  Welcome to Gayeon's Github 👋
 
