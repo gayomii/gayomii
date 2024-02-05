@@ -9,7 +9,6 @@
 ### 👋  Welcome to Gayeon's Github 👋
 
  💬  Ask me about ... [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gayeon4041@gmail.com)](mailto:fomagran6@gmail.com) 
- 📒  my writing notes ... [![blog Badge](https://img.shields.io/badge/%20-blog-gray?&link=https://gayeonstory.tistory.com/)](https://gayeonstory.tistory.com/)
 
 <!--
 **gayomii/gayomii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
