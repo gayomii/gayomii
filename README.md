@@ -56,7 +56,7 @@
 
 ## 💼 Works & Projects
 
-- 2020.08 - 2023.11 **물류 관련 웹 솔루션 개발**
+- 2020.08 - 2023.11 &nbsp; **물류 관련 웹 솔루션 개발**
 <p>
  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -68,7 +68,7 @@
  <img src="https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-- 2024.04 - 진행중 **TripShare 앱 개발** (google play 앱 비공개 테스트 중)
+- 2024.04 - 진행중 &nbsp; **여행객을 위한 커뮤니티 "TripShare" 앱 개발** (google play 앱 비공개 테스트 중)
 <p>
  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
@@ -77,16 +77,17 @@
 <br>
 
 ## 📚 Education
-- 2023.12 - 2024.05 프로그래머스 클라우딩 어플리케이션 엔지니어링 데브코스 1기 수료
+- 2015.03 - 2020.02 &nbsp; 정보통신공학과 졸업
+- 2023.12 - 2024.05 &nbsp; 프로그래머스 클라우딩 어플리케이션 엔지니어링 데브코스 1기 수료
 
 <br>
 
 ## 🎫 Certification
 
-- 2024.08.18 **PCCP (JavaScript) Lv1**
-- 2021.06.25 **SQLD (SQL 개발자)**
-- 2018.11.16 **정보처리기사**
-- 2017.09.22 **리눅스 마스터 2급**
+- 2024.08.18 &nbsp; **PCCP (JavaScript) Lv1**
+- 2021.06.25 &nbsp; **SQLD (SQL 개발자)**
+- 2018.11.16 &nbsp; **정보처리기사**
+- 2017.09.22 &nbsp; **리눅스 마스터 2급**
  
 </div>
 
