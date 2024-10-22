@@ -68,7 +68,7 @@
  <img src="https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-- 2024.04 - 진행중 &nbsp; **여행객을 위한 커뮤니티 "TripShare" 앱 개발** (google play 앱 비공개 테스트 중)
+- 2024.04 - 진행중 &nbsp; **여행객을 위한 커뮤니티 "TripShare" 앱 개발** (<a href="https://apps.apple.com/kr/app/tripshare/id6736657723">ios 앱</a>) 
 <p>
  <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
