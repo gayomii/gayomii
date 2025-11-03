@@ -74,6 +74,14 @@
   <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white"/>
 </p>
 
+- 2024.12 - &nbsp; **굿즈 제작/판매 커머스 플랫폼 FE/BE 개발**
+<p>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SCSS-E10098?style=flat&logo=SASS&Color=white"/>
+  <img src="https://img.shields.io/badge/-node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 <br>
 
 ## 📚 Education
@@ -99,11 +107,7 @@
 
 
 <br><br>
-<div> 
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://github.com/gayomii/gayomii)
-  
-</div>
+
 <!--
 **gayomii/gayomii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
